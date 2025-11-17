@@ -1,12 +1,12 @@
 # Rust-Genetic
 
-In this work, I suggest considering the implementation of a prototype genetic algorithm for the traveling salesman problem using the Rust programming language.
+This project presents a prototype genetic algorithm for the Traveling Salesman Problem (TSP) implemented in Rust.
 
-The diploma thesis proposes the implementation of a flexible, parameterized genetic algorithm for finding optimal solutions to the traveling salesman problem, as well as a subprogram for visualizing the process of finding such solutions.
+The diploma thesis proposes implementing a flexible, parameterized genetic algorithm to find near‑optimal solutions for the TSP, together with a tool to visualize the search process.
 
-The developed algorithm can be used to investigate and solve other NP-complex problems with a given accuracy. Each probability of genetic transition is parameterized and can be conveniently tuned to a specific problem.
+The developed algorithm can be adapted to investigate and solve other NP‑hard problems to a specified accuracy. Each genetic operation probability is parameterized and can be tuned conveniently for a particular problem.
 
-I developed a system of step-by-step visualization for each population generation and a visualization of the fitness function of each generation. This makes it easy to visually control the evolution of each generation of the genetic algorithm iteration and select parameters for a more accurate solution of the problem.
+I implemented step‑by‑step visualization for each population generation and visualization of the fitness function across generations. This makes it easy to visually monitor the evolution of the population and to select parameters for improved solution accuracy.
 
 # To run
 
